@@ -1,0 +1,42 @@
+# Virtual Environment
+lingkup/
+lingkup*/
+__pycache__/
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# pipenv
+Pipfile.lock
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# VS Code
+.vscode/
+
+# Sublime Text
+.sublime-project
+.sublime-workspace
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+
+# Pytest
+__pycache__/
